@@ -1,0 +1,2 @@
+whos the shadow - Wszystkie blueprinty ( gierka została dokończona ale nie mam na chwile obecną pełnego buildu)
+CyberRun_277 - blueprinty UI, podpięcie muzyki, spowolnienie gracza
